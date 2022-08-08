@@ -52,6 +52,7 @@
 .signin {
     text-decoration: none;
     color: black;
+    background: none;
 }
 
 .btn:hover {
